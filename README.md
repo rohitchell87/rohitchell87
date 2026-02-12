@@ -56,7 +56,7 @@ An **AI-driven fundraising platform** connecting startups with investors using *
   <a href="mailto:rohit24481@iiitd.ac.in">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/rohitchell87/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
   </a>
 </p>
