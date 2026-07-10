@@ -42,11 +42,11 @@ I'm a **Computer Science and Engineering undergraduate at IIIT Delhi**, passiona
 #### 🌾 CampusConnect
 A modern campus networking and dating platform built with Spring Boot, React, MySQL and JWT Authentication.
 
-#### 🏫 University ERP System
-A **Java + MySQL** based multi-role ERP system for **students, faculty, and administrators**, featuring authentication, dashboards, and academic modules.
+#### 🏫 Hospital Management System
+A modern web application for managing hospital operations, built with vanilla JavaScript and Supabase.
 
-#### 🤖 Oplentia
-An **AI-driven fundraising platform** connecting startups with investors using **dynamic scoring, matchmaking, and leaderboard-based visibility**.
+#### 🤖 CodeForge AI
+CodeForge AI is a full-stack coding interview preparation and competitive programming platform inspired by modern online judges such as LeetCode.
 
 ---
 
