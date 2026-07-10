@@ -39,8 +39,8 @@ I'm a **Computer Science and Engineering undergraduate at IIIT Delhi**, passiona
 
 ### 📌 Featured Projects
 
-#### 🌾 Smart Harvest
-A farming service and advisory platform providing **crop, soil, and climate-based recommendations** to improve accessibility and decision-making for farmers.
+#### 🌾 CampusConnect
+A modern campus networking and dating platform built with Spring Boot, React, MySQL and JWT Authentication.
 
 #### 🏫 University ERP System
 A **Java + MySQL** based multi-role ERP system for **students, faculty, and administrators**, featuring authentication, dashboards, and academic modules.
