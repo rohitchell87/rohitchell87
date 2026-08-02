@@ -49,7 +49,10 @@ A modern web application for managing hospital operations, built with vanilla Ja
 CodeForge AI is a full-stack coding interview preparation and competitive programming platform inspired by modern online judges such as LeetCode.
 
 ---
+## 🚀 LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rohitchell81?theme=dark&font=Baloo&ext=contest)
+---
 ### 📫 Connect With Me
 
 <p align="left">
