@@ -66,4 +66,9 @@ CodeForge AI is a full-stack coding interview preparation and competitive progra
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitchell87/rohitchell87/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 ⭐ Always open to learning, collaboration, and building impactful software.
